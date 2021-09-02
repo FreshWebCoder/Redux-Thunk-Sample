@@ -1,0 +1,12 @@
+.elements-list {
+  max-width: 600px;
+  margin: auto;
+  padding: 15px;
+}
+
+.empty-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
